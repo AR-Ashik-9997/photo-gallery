@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/photo-gallery/static/css/main.8ec4e0ca.chunk.css",
+    "main.js": "/photo-gallery/static/js/main.6336de3b.chunk.js",
+    "main.js.map": "/photo-gallery/static/js/main.6336de3b.chunk.js.map",
+    "runtime-main.js": "/photo-gallery/static/js/runtime-main.2fb2e379.js",
+    "runtime-main.js.map": "/photo-gallery/static/js/runtime-main.2fb2e379.js.map",
+    "static/css/2.b1e6dff5.chunk.css": "/photo-gallery/static/css/2.b1e6dff5.chunk.css",
+    "static/js/2.14ce070e.chunk.js": "/photo-gallery/static/js/2.14ce070e.chunk.js",
+    "static/js/2.14ce070e.chunk.js.map": "/photo-gallery/static/js/2.14ce070e.chunk.js.map",
+    "index.html": "/photo-gallery/index.html",
+    "precache-manifest.19fa4c9307e78ebd812f805977eb53c3.js": "/photo-gallery/precache-manifest.19fa4c9307e78ebd812f805977eb53c3.js",
+    "service-worker.js": "/photo-gallery/service-worker.js",
+    "static/css/2.b1e6dff5.chunk.css.map": "/photo-gallery/static/css/2.b1e6dff5.chunk.css.map",
+    "static/css/main.8ec4e0ca.chunk.css.map": "/photo-gallery/static/css/main.8ec4e0ca.chunk.css.map",
+    "static/js/2.14ce070e.chunk.js.LICENSE.txt": "/photo-gallery/static/js/2.14ce070e.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/photo-gallery/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fb2e379.js",
+    "static/css/2.b1e6dff5.chunk.css",
+    "static/js/2.14ce070e.chunk.js",
+    "static/css/main.8ec4e0ca.chunk.css",
+    "static/js/main.6336de3b.chunk.js"
+  ]
+}
